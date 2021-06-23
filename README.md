@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vishalrajput97
-- 👀 I’m a MERN Stack Developer
-- 🌱 I’m from Bangalore India
+- 👋 Hi, This is Vishal here.
+- 👀 I’m a MERN Stack Developer.
+- 🌱 I’m from Bangalore India.
 - 💞️ I’m looking to collaborate with other developers.
-- 📫 How to reach me 
+- 📫 How to reach me ? 
           Follow me on instagram : @vishalrajput24_
 
 <!---
