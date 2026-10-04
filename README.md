@@ -1,5 +1,5 @@
 - 👋 Hi, This is Vishal here.
-- 👀 I’m a MERN Stack Developer and Software Engineer.
+- 👀 I’m an AI Product Manager.
 - 🌱 I’m from Bangalore India.
 
 <!---
